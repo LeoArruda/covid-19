@@ -1,2 +1,2 @@
-# covid-19
-Novel Corona Virus 2019 Data Analysis &amp; Predictions
+# Novel Corona Virus 2019 Dataset Analysis & Predictions
+## Day level information on covid-19 affected cases
